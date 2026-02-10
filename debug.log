@@ -1,0 +1,6 @@
+2026-02-03 10:48:15,398 [INFO] 80.0% de bonnes réponses sur les données de test pour validation
+2026-02-03 10:49:13,714 [INFO] 85.6% de bonnes réponses sur les données de test pour validation
+2026-02-03 10:49:13,715 [INFO] -
+2026-02-03 10:49:13,715 [INFO] matrice de confusion
+2026-02-03 10:49:13,715 [INFO] [[57  6]
+ [ 7 20]]
